@@ -24,3 +24,29 @@ div.post p{
     padding: 5px;
     margin: 0;
 }
+
+div.icons {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.text-description{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.fa {
+    padding: 5px;
+}
+
+
+.fas {
+    margin-left: 320px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#collection-icon{
+    margin-left: 280px;
+}
